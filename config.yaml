@@ -1,0 +1,6 @@
+path: 'camiho do seu arquivo central - retirado por segurança e privacidade'
+train: images/train
+val:  images/train
+
+names:
+  0: carro
